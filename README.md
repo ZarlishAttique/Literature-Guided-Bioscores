@@ -32,7 +32,7 @@ Each feature undergoes **min-max scaling**, is weighted, and contributes to a fi
 | **PPI Score** | Protein-protein interaction strength | Min-Max | Derived from STRING |
 | **CGC** | Binary cancer gene flag | 1 or 0 | Includes additive bonus |
 | **GeneCards** | Functional literature relevance | Min-Max | API-sourced or downloaded |
-| **DiseaseDB Z** | Phenotype-association signal | Min-Max | Based on z-score strength |
+| **DiseaseDB Z-scores** | Phenotype-association signal | Min-Max | Based on z-score strength |
 
 ---
 
