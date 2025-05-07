@@ -1,0 +1,200 @@
+
+Disease: breast cancer
+- 1. Malignant Breast Neoplasm
+- 2. Mammary Carcinoma
+- 3. Invasive Ductal Carcinoma
+- 4. Breast Malignancy
+- 5. Malignant Tumor of the Breast
+
+Disease: 1. Malignant Breast Neoplasm
+- 7q11.23 duplication syndrome
+- chromosome 22q11.2 deletion syndrome, distal
+- chromosome 22q11.2 microduplication syndrome
+- chromosome 1q21.1 deletion syndrome
+- chromosome 17q11.2 deletion syndrome
+- chromosome xp11.22 duplication syndrome
+- chromosome 16p11.2 duplication syndrome
+- chromosome 1q21.1 duplication syndrome
+- chromosome 17q21.31 duplication syndrome
+- chromosome 15q11.2 deletion syndrome
+- chromosome 16p12.2-p11.2 deletion syndrome
+- chromosome 8q21.11 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 593-kb
+- chromosome 2q31.2 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 220-kb
+- 1. Invasive Ductal Carcinoma
+- 2. Breast Cancer
+- 3. Invasive Lobular Carcinoma
+- 4. Metastatic Breast Cancer
+- 5. Mammary Carcinoma
+
+Disease: 1. Malignant Breast Neoplasm
+- 7q11.23 duplication syndrome
+- chromosome 22q11.2 deletion syndrome, distal
+- chromosome 22q11.2 microduplication syndrome
+- chromosome 1q21.1 deletion syndrome
+- chromosome 17q11.2 deletion syndrome
+- chromosome xp11.22 duplication syndrome
+- chromosome 16p11.2 duplication syndrome
+- chromosome 1q21.1 duplication syndrome
+- chromosome 17q21.31 duplication syndrome
+- chromosome 15q11.2 deletion syndrome
+- chromosome 16p12.2-p11.2 deletion syndrome
+- chromosome 8q21.11 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 593-kb
+- chromosome 2q31.2 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 220-kb
+- 1. Invasive Ductal Carcinoma
+- 2. Breast Cancer
+- 3. Metastatic Breast Cancer
+- 4. Invasive Lobular Carcinoma
+- 5. Mammary Carcinoma
+
+Disease: 1. malignant breast neoplasm
+- 7q11.23 duplication syndrome
+- chromosome 22q11.2 deletion syndrome, distal
+- chromosome 22q11.2 microduplication syndrome
+- chromosome 1q21.1 deletion syndrome
+- chromosome 17q11.2 deletion syndrome
+- chromosome xp11.22 duplication syndrome
+- chromosome 16p11.2 duplication syndrome
+- chromosome 1q21.1 duplication syndrome
+- chromosome 17q21.31 duplication syndrome
+- chromosome 15q11.2 deletion syndrome
+- chromosome 16p12.2-p11.2 deletion syndrome
+- chromosome 8q21.11 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 593-kb
+- chromosome 2q31.2 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 220-kb
+
+Disease: 1. malignant breast neoplasm
+- 7q11.23 duplication syndrome
+- chromosome 22q11.2 deletion syndrome, distal
+- chromosome 22q11.2 microduplication syndrome
+- chromosome 1q21.1 deletion syndrome
+- chromosome 17q11.2 deletion syndrome
+- chromosome xp11.22 duplication syndrome
+- chromosome 16p11.2 duplication syndrome
+- chromosome 1q21.1 duplication syndrome
+- chromosome 17q21.31 duplication syndrome
+- chromosome 15q11.2 deletion syndrome
+- chromosome 16p12.2-p11.2 deletion syndrome
+- chromosome 8q21.11 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 593-kb
+- chromosome 2q31.2 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 220-kb
+- 1. Invasive Breast Carcinoma
+- 2. Breast Cancer
+- 3. Infiltrating Mammary Carcinoma
+- 4. Malignant Mammary Tumor
+- 5. Advanced Breast Malignancy
+
+Disease: 1. malignant breast neoplasm
+- 7q11.23 duplication syndrome
+- chromosome 22q11.2 deletion syndrome, distal
+- chromosome 22q11.2 microduplication syndrome
+- chromosome 1q21.1 deletion syndrome
+- chromosome 17q11.2 deletion syndrome
+- chromosome xp11.22 duplication syndrome
+- chromosome 16p11.2 duplication syndrome
+- chromosome 1q21.1 duplication syndrome
+- chromosome 17q21.31 duplication syndrome
+- chromosome 15q11.2 deletion syndrome
+- chromosome 16p12.2-p11.2 deletion syndrome
+- chromosome 8q21.11 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 593-kb
+- chromosome 2q31.2 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 220-kb
+- breast cancer
+- disease of cellular proliferation
+- organ system cancer
+- cell type cancer
+- carcinoma
+
+Disease: 1. malignant breast neoplasm
+- 7q11.23 duplication syndrome
+- chromosome 22q11.2 deletion syndrome, distal
+- chromosome 22q11.2 microduplication syndrome
+- chromosome 1q21.1 deletion syndrome
+- chromosome 17q11.2 deletion syndrome
+- chromosome xp11.22 duplication syndrome
+- chromosome 16p11.2 duplication syndrome
+- chromosome 1q21.1 duplication syndrome
+- chromosome 17q21.31 duplication syndrome
+- chromosome 15q11.2 deletion syndrome
+- chromosome 16p12.2-p11.2 deletion syndrome
+- chromosome 8q21.11 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 593-kb
+- chromosome 2q31.2 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 220-kb
+- breast disease
+- disease of cellular proliferation
+- organ system cancer
+- cell type cancer
+- breast cancer
+
+Disease: 1. malignant breast neoplasm
+- 7q11.23 duplication syndrome
+- chromosome 22q11.2 deletion syndrome, distal
+- chromosome 22q11.2 microduplication syndrome
+- chromosome 1q21.1 deletion syndrome
+- chromosome 17q11.2 deletion syndrome
+- chromosome xp11.22 duplication syndrome
+- chromosome 16p11.2 duplication syndrome
+- chromosome 1q21.1 duplication syndrome
+- chromosome 17q21.31 duplication syndrome
+- chromosome 15q11.2 deletion syndrome
+- chromosome 16p12.2-p11.2 deletion syndrome
+- chromosome 8q21.11 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 593-kb
+- chromosome 2q31.2 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 220-kb
+- breast disease
+- disease of cellular proliferation
+- organ system cancer
+- cell type cancer
+- breast cancer
+
+Disease: 1. malignant breast neoplasm
+- 7q11.23 duplication syndrome
+- chromosome 22q11.2 deletion syndrome, distal
+- chromosome 22q11.2 microduplication syndrome
+- chromosome 1q21.1 deletion syndrome
+- chromosome 17q11.2 deletion syndrome
+- chromosome xp11.22 duplication syndrome
+- chromosome 16p11.2 duplication syndrome
+- chromosome 1q21.1 duplication syndrome
+- chromosome 17q21.31 duplication syndrome
+- chromosome 15q11.2 deletion syndrome
+- chromosome 16p12.2-p11.2 deletion syndrome
+- chromosome 8q21.11 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 593-kb
+- chromosome 2q31.2 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 220-kb
+- breast disease
+- disease of cellular proliferation
+- organ system cancer
+- cell type cancer
+- breast cancer
+
+Disease: 1. malignant breast neoplasm
+- 7q11.23 duplication syndrome
+- chromosome 22q11.2 deletion syndrome, distal
+- chromosome 22q11.2 microduplication syndrome
+- chromosome 1q21.1 deletion syndrome
+- chromosome 17q11.2 deletion syndrome
+- chromosome xp11.22 duplication syndrome
+- chromosome 16p11.2 duplication syndrome
+- chromosome 1q21.1 duplication syndrome
+- chromosome 17q21.31 duplication syndrome
+- chromosome 15q11.2 deletion syndrome
+- chromosome 16p12.2-p11.2 deletion syndrome
+- chromosome 8q21.11 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 593-kb
+- chromosome 2q31.2 deletion syndrome
+- chromosome 16p11.2 deletion syndrome, 220-kb
+- breast cancer
+- disease of cellular proliferation
+- cell type cancer
+- organ system cancer
+- carcinoma
